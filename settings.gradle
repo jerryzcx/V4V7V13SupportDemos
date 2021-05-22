@@ -1,0 +1,6 @@
+rootProject.name = "V4V7V13SupportDemos"
+include ':app'
+include ':supportAppNavigation'
+include ':support13Demos'
+include ':support7Demos'
+include ':support4Demos'
